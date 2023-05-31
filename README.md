@@ -1,2 +1,2 @@
 # clock_system
-Digital-clock System .
+Digital-clock System . HTML CSS JAVASCRIPT
